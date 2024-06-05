@@ -1,2 +1,4 @@
-The required environment for the project is consistent with NAFSSR, please refer to NAFSSR. More details will be updated at a later time
+The required environment for the project is consistent with NAFSSR, please refer to NAFSSR. More details will be updated at a later time.
+# My Awesome Project
 
+This project was inspired by and makes use of the excellent [NAFSSR](https://github.com/megvii-research/NAFNet/blob/main/docs/StereoSR.md). We are grateful to the team behind OtherProject for their hard work and dedication.
