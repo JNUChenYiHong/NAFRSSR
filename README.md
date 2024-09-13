@@ -8,7 +8,7 @@ Stereo image super-resolution (SR) refers to the reconstruction of a high-resolu
 <img src="images/Fig8.png" width="600" align:center></img>
 <img src="images/Fig9.png" width="600" align:center></img>
 ## Test dataset result:
-<img src="images/table.png" width="600" align:center></img>
+<img src="images/table.png" width="800" align:center></img>
 
 
 ## Requirements
