@@ -5,10 +5,10 @@ Stereo image super-resolution (SR) refers to the reconstruction of a high-resolu
 ## Network structure:
 <div align="center"> <img src="images/NAFRSSR.png" width="600" align:center /> </div>
 ## Visual result:
-<img src="images/Fig8.png" width="600" align:center />
-<img src="images/Fig9.png" width="600" align:center />
+<div align="center"> <img src="images/Fig8.png" width="600" align:center />
+<img src="images/Fig9.png" width="600" align:center /></div>
 ## Test dataset result:
-<img src="images/table.png" width="800" align:center />
+<div align="center"><img src="images/table.png" width="800" align:center /></div>
 
 
 ## Requirements
