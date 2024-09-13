@@ -8,8 +8,10 @@ Stereo image super-resolution (SR) refers to the reconstruction of a high-resolu
 </div>
 
 ## Visual result:
-<div align="center"> <img src="images/Fig8.png" width="600" ></img> </div>
-<img src="images/Fig9.png" width="600" align:center /></div>
+<div align="center"> 
+      <img src="images/Fig8.png" width="600" />
+      <img src="images/Fig9.png" width="600" align:center />
+</div>
 
 ## Test dataset result:
 <div align="center"><img src="images/table.png" width="800" align:center /></div>
