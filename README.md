@@ -29,7 +29,7 @@ cd NAFRSSR
 pip install -r requirements.txt
 python setup.py develop --no_cuda_ext
 ```
-Then download the pretrained model (in master branch) to the `experiments\pretrained_models`, and modify test dataset path and pretrained model path in the `NAFSSR-*_4x.yml` file.
+Then download the pretrained model (in main branch) to the `experiments\pretrained_models`, and modify test dataset path and pretrained model path in the `NAFSSR-*_4x.yml` file.
 ```
 python  basicsr/test.py -opt ./options/test/NAFRSSR/NAFSSR-S_4x.yml
 ```
