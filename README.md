@@ -1,3 +1,5 @@
+# News
+After verification, replacing the original layer normal 2d with dyt can achieve faster speed and better results; For example, using dyt on NAFRSSR-M can result in 23.74/0.7414 PSNR/SSIM on the Flickr1024 test set
 # NAFRSSR
 Official PyTorch implement for NAFRSSR: a Lightweight Recursive Network for Efficient Stereo Image Super-Resolution.  Please refer to the **dev branch** for the **complete code**.
 [Read our paper on ArXiv](https://arxiv.org/abs/2405.08423)
